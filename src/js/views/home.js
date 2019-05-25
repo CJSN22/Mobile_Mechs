@@ -28,7 +28,7 @@ export class Home extends React.Component {
 							Some card text so that is shows text in this area. Also another line as well to show
 							multiple lines of text.
 						</p>
-						<a href="#" className="btn btn-primary">
+						<a href="/services" className="btn btn-primary">
 							More Info{" "}
 						</a>
 					</div>
@@ -45,7 +45,7 @@ export class Home extends React.Component {
 							Some card text so that is shows text in this area. Also another line as well to show
 							multiple lines of text.
 						</p>
-						<a href="#" className="btn btn-primary">
+						<a href="/services" className="btn btn-primary">
 							More Info{" "}
 						</a>
 					</div>
@@ -62,7 +62,7 @@ export class Home extends React.Component {
 							Some card text so that is shows text in this area. Also another line as well to show
 							multiple lines of text.
 						</p>
-						<a href="#" className="btn btn-primary">
+						<a href="/services" className="btn btn-primary">
 							More Info{" "}
 						</a>
 					</div>
