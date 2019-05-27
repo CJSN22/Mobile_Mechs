@@ -11,14 +11,14 @@ export class Navbar extends React.Component {
 					className="navbar-toggler"
 					type="button"
 					data-toggle="collapse"
-					data-target="#navbarTogglerDemo02"
-					aria-controls="navbarTogglerDemo02"
+					data-target="#navbarResponsive"
+					aria-controls="navbarResponsive"
 					aria-expanded="false"
 					aria-label="Toggle navigation">
 					<span className="navbar-toggler-icon" />
 				</button>
 
-				<div className="collapse navbar-collapse" id="navbarTogglerDemo02">
+				<div className="collapse navbar-collapse" id="navbarResponsive">
 					<ul className="navbar-nav mr-auto mt-2 mt-lg-0">
 						<li className="nav-item active">
 							<a className="nav-link" href="/">
@@ -30,13 +30,12 @@ export class Navbar extends React.Component {
 								Services
 							</a>
 						</li>
+						<li className="nav-item">
+							<a className="nav-link" href="/login">
+								Sign In
+							</a>
+						</li>
 					</ul>
-					<form className="form-inline my-2 my-lg-0">
-						<input className="form-control mr-sm-2" type="search" placeholder="email" />
-						<button className="btn btn-outline-success my-2 my-sm-0" type="submit">
-							<a href="/login">Log In</a>
-						</button>
-					</form>
 				</div>
 			</nav>
 		);

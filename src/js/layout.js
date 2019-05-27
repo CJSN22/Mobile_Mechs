@@ -11,6 +11,7 @@ import { Navbar } from "./component/navbar";
 import { Footer } from "./component/footer";
 import { Services } from "./component/services";
 import { Login } from "./component/login";
+import { Profile } from "./component/profile";
 
 //create your first component
 export class Layout extends React.Component {
@@ -29,6 +30,7 @@ export class Layout extends React.Component {
 							<Route path="/demo" component={Demo} />
 							<Route path="/services" component={Services} />
 							<Route path="/login" component={Login} />
+							<Route path="/profile" component={Profile} />
 							<Route path="/single/:theid" component={Single} />
 							<Route render={() => <h1>Not found!</h1>} />
 						</Switch>
