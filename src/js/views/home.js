@@ -12,7 +12,10 @@ export class Home extends React.Component {
 					<div className="container">
 						<h1 className="display-4">MobileMechs</h1>
 						<p className="lead">
-							Bringing top notch service to your front door. More text and information will go here.
+							Bringing top notch services for all your cycling need right to your front door. No need to
+							hassel with local shops to sqeeze in a tune up at the last minute. Schedule your next
+							service with Mobile Mechs and we will make sure your machine is race ready when you need it
+							most!
 						</p>
 					</div>
 				</div>
@@ -25,8 +28,9 @@ export class Home extends React.Component {
 					<div className="card-body">
 						<h5 className="card-title">Road Bikes</h5>
 						<p className="card-text">
-							Some card text so that is shows text in this area. Also another line as well to show
-							multiple lines of text.
+							Whether you are going full speed into a sprint or just enjoying a ride along the beach, a
+							noisy bike will take the fun out of any ride. Schedule a tune up with MobileMechs to make
+							sure your next ride is safe and quiet.
 						</p>
 						<a href="/services" className="btn btn-primary">
 							More Info{" "}
@@ -42,8 +46,9 @@ export class Home extends React.Component {
 					<div className="card-body">
 						<h5 className="card-title">Mountain Bikes</h5>
 						<p className="card-text">
-							Some card text so that is shows text in this area. Also another line as well to show
-							multiple lines of text.
+							Slipping gears and dropping chains usually results to one thing, and that a pedal to the
+							shin! Nobody wants a pedal to the shin! After a service from Mobile Mechs your bike will be
+							back to gripping climbs and railing decents!
 						</p>
 						<a href="/services" className="btn btn-primary">
 							More Info{" "}
@@ -59,8 +64,9 @@ export class Home extends React.Component {
 					<div className="card-body">
 						<h5 className="card-title">Bike Builds</h5>
 						<p className="card-text">
-							Some card text so that is shows text in this area. Also another line as well to show
-							multiple lines of text.
+							If custom is what you want, custom is what you get! Take your new ride to the next level
+							with all your favorite parts. With our Tune Up packages we have you covered for bikes that
+							come shipped in a box to full custom builds!
 						</p>
 						<a href="/services" className="btn btn-primary">
 							More Info{" "}
