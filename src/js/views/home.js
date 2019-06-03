@@ -12,9 +12,9 @@ export class Home extends React.Component {
 					<div className="container">
 						<h1 className="display-4">MobileMechs</h1>
 						<p className="lead">
-							Bringing top notch services for all your cycling need right to your front door. No need to
-							hassel with local shops to sqeeze in a tune up at the last minute. Schedule your next
-							service with Mobile Mechs and we will make sure your machine is race ready when you need it
+							Bringing top notch services for all your cycling needs right to your front door. No need to
+							hastle with local shops to squeeze in a tune up at the last minute. Schedule your next
+							service with MobileMechs and we will make sure your machine is race ready when you need it
 							most!
 						</p>
 					</div>
@@ -46,8 +46,8 @@ export class Home extends React.Component {
 					<div className="card-body">
 						<h5 className="card-title">Mountain Bikes</h5>
 						<p className="card-text">
-							Slipping gears and dropping chains usually results to one thing, and that a pedal to the
-							shin! Nobody wants a pedal to the shin! After a service from Mobile Mechs your bike will be
+							Slipping gears and dropping chains usually results in one thing, and that is a pedal to the
+							shin! Nobody wants a pedal to the shin! After a service from MobileMechs your bike will be
 							back to gripping climbs and railing decents!
 						</p>
 						<a href="/services" className="btn btn-primary">
@@ -65,7 +65,7 @@ export class Home extends React.Component {
 						<h5 className="card-title">Bike Builds</h5>
 						<p className="card-text">
 							If custom is what you want, custom is what you get! Take your new ride to the next level
-							with all your favorite parts. With our Tune Up packages we have you covered for bikes that
+							with all your favorite parts. With our Tune Up packages we have you covered from bikes that
 							come shipped in a box to full custom builds!
 						</p>
 						<a href="/services" className="btn btn-primary">
