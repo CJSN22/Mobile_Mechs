@@ -64,9 +64,6 @@ export const Login = () => (
 									Sign In
 								</a>
 								<hr className="my-4" />
-								<button className="btn btn-lg btn-google btn-block text-uppercase" type="submit">
-									<i className="fab fa-strava mr-2" /> Sign up with Strava
-								</button>
 							</form>
 						</div>
 					</div>
