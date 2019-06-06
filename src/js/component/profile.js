@@ -77,7 +77,7 @@ export const Profile = () => (
 					</table>
 
 					<table className="table table-sm table-borderless">
-						<caption> * Year to date stats *</caption>
+						<caption> * Year to date stats </caption>
 						<thead>
 							<tr>
 								<th scope="col">My Stats</th>
@@ -86,15 +86,15 @@ export const Profile = () => (
 						<tbody>
 							<tr>
 								<th scope="row">Distance</th>
-								<td>827.5 miles</td>
+								<td>858 miles</td>
 							</tr>
 							<tr>
 								<th scope="row">Time</th>
-								<td>33h38m</td>
+								<td>34h52m</td>
 							</tr>
 							<tr>
 								<th scope="row">Rides</th>
-								<td>29</td>
+								<td>30</td>
 							</tr>
 						</tbody>
 					</table>
