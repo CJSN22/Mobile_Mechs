@@ -13,52 +13,46 @@ export const Services = () => (
 								<hr />
 								<ul className="fa-ul">
 									<li>
-										<span className="fa-li">
-											<i className="fas fa-check" />
-										</span>
-										Single User
+										<span className="fa-li" />
+										Full Saftey Inspection
 									</li>
 									<li>
-										<span className="fa-li">
-											<i className="fas fa-check" />
-										</span>
-										5GB Storage
+										<span className="fa-li" />
+										Gear Adjustments
 									</li>
 									<li>
-										<span className="fa-li">
-											<i className="fas fa-check" />
-										</span>
-										Unlimited Public Projects
+										<span className="fa-li" />
+										Brake Adjustments
 									</li>
 									<li>
-										<span className="fa-li">
-											<i className="fas fa-check" />
-										</span>
-										Community Access
+										<span className="fa-li" />
+										Wheel True (on bike)
 									</li>
 									<li className="text">
-										<span className="fa-li">
-											<i className="fas fa-times" />
-										</span>
-										Unlimited Private Projects
+										<span className="fa-li" />
+										Drivetrain Clean (on bike)
 									</li>
 									<li className="text">
-										<span className="fa-li">
-											<i className="fas fa-times" />
-										</span>
-										Dedicated Phone Support
+										<span className="fa-li" />
+										Bolts Torqued To Spec
 									</li>
 									<li className="text">
-										<span className="fa-li">
-											<i className="fas fa-times" />
-										</span>
-										Free Subdomain
+										<span className="fa-li" />
+										Check all bearings (Headset, BB, Hub)
 									</li>
 									<li className="text">
-										<span className="fa-li">
-											<i className="fas fa-times" />
-										</span>
-										Monthly Status Reports
+										<span className="fa-li" />
+										Frame Wipe Down
+									</li>
+									<li className="text">
+										<span className="fa-li" />
+										Post Service Test Ride
+									</li>
+									<li className="text">
+										<span className="fa-li" />* Price Of Bike Build From Box *
+									</li>
+									<li className="text">
+										<span className="fa-li" />
 									</li>
 								</ul>
 								<a href="#" className="btn btn-block btn-primary text-uppercase">
@@ -76,52 +70,44 @@ export const Services = () => (
 								<hr />
 								<ul className="fa-ul">
 									<li>
-										<span className="fa-li">
-											<i className="fas fa-check" />
-										</span>
-										<strong>5 Users</strong>
+										<span className="fa-li" />
+										Full Saftey Inspection
 									</li>
 									<li>
-										<span className="fa-li">
-											<i className="fas fa-check" />
-										</span>
-										50GB Storage
+										<span className="fa-li" />
+										Gear Adjustments
 									</li>
 									<li>
-										<span className="fa-li">
-											<i className="fas fa-check" />
-										</span>
-										Unlimited Public Projects
+										<span className="fa-li" />
+										Brake Adjustments
 									</li>
 									<li>
-										<span className="fa-li">
-											<i className="fas fa-check" />
-										</span>
-										Community Access
-									</li>
-									<li>
-										<span className="fa-li">
-											<i className="fas fa-check" />
-										</span>
-										Unlimited Private Projects
-									</li>
-									<li>
-										<span className="fa-li">
-											<i className="fas fa-check" />
-										</span>
-										Dedicated Phone Support
-									</li>
-									<li>
-										<span className="fa-li">
-											<i className="fas fa-check" />
-										</span>
-										Free Subdomain
+										<span className="fa-li" />
+										Wheel True (off bike)
 									</li>
 									<li className="text">
-										<span className="fa-li">
-											<i className="fas fa-times" />
-										</span>
-										Monthly Status Reports
+										<span className="fa-li" />
+										Drivetrain Clean (off bike)
+									</li>
+									<li className="text">
+										<span className="fa-li" />
+										Bolts Torqued To Spec
+									</li>
+									<li className="text">
+										<span className="fa-li" />
+										Check and Adjust bearings (Headset,BB,Hub)
+									</li>
+									<li className="text">
+										<span className="fa-li" />
+										Frame Wipe Down And Polish
+									</li>
+									<li className="text">
+										<span className="fa-li" />
+										Post Service Test Ride
+									</li>
+									<li className="text">
+										<span className="fa-li" />
+										*Price For Frame Swap
 									</li>
 								</ul>
 								<a href="#" className="btn btn-block btn-primary text-uppercase">
@@ -139,52 +125,40 @@ export const Services = () => (
 								<hr />
 								<ul className="fa-ul">
 									<li>
-										<span className="fa-li">
-											<i className="fas fa-check" />
-										</span>
-										<strong>Unlimited Users</strong>
+										<span className="fa-li" />
+										Full Saftey Inspection
 									</li>
 									<li>
-										<span className="fa-li">
-											<i className="fas fa-check" />
-										</span>
-										150GB Storage
+										<span className="fa-li" />
+										Gear Adjustments
 									</li>
 									<li>
-										<span className="fa-li">
-											<i className="fas fa-check" />
-										</span>
-										Unlimited Public Projects
+										<span className="fa-li" />
+										Brake Adjustments
 									</li>
 									<li>
-										<span className="fa-li">
-											<i className="fas fa-check" />
-										</span>
-										Community Access
+										<span className="fa-li" />
+										Wheel True (off bike) With Hub Adjustment
 									</li>
-									<li>
-										<span className="fa-li">
-											<i className="fas fa-check" />
-										</span>
-										Unlimited Private Projects
+
+									<li className="text">
+										<span className="fa-li" />
+										Bolts Torqued To Spec
 									</li>
-									<li>
-										<span className="fa-li">
-											<i className="fas fa-check" />
-										</span>
-										Dedicated Phone Support
+									<li className="text">
+										<span className="fa-li" />
+										Check and Replace (Headset,BB,Hub)
 									</li>
-									<li>
-										<span className="fa-li">
-											<i className="fas fa-check" />
-										</span>
-										<strong>Unlimited</strong> Free Subdomains
+									<li className="text">
+										<span className="fa-li" />
+										Full Bike Breakdown And Cleaning
 									</li>
-									<li>
-										<span className="fa-li">
-											<i className="fas fa-check" />
-										</span>
-										Monthly Status Reports
+									<li className="text">
+										<span className="fa-li" />
+										Post Service Test Ride
+									</li>
+									<li className="text">
+										<span className="fa-li" />* Price Of Bike Build From Ground Up *
 									</li>
 								</ul>
 								<a href="#" className="btn btn-block btn-primary text-uppercase">

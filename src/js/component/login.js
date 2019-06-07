@@ -12,18 +12,6 @@ export const Login = () => (
 							<form className="form-signin">
 								<div className="form-label-group">
 									<input
-										type="text"
-										id="inputUserame"
-										className="form-control"
-										placeholder="Username"
-										required
-										autoFocus
-									/>
-									<label htmlFor="inputUserame">Username</label>
-								</div>
-
-								<div className="form-label-group">
-									<input
 										type="email"
 										id="inputEmail"
 										className="form-control"
