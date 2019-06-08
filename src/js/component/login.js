@@ -48,7 +48,7 @@ export const Login = () => (
 								<button className="btn btn-lg btn-primary btn-block text-uppercase" type="submit">
 									Register
 								</button>
-								<a className="d-block text-center mt-2 small" href="#">
+								<a className="d-block text-center mt-2 small" href="/profile">
 									Sign In
 								</a>
 								<hr className="my-4" />

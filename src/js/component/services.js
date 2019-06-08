@@ -55,7 +55,7 @@ export const Services = () => (
 										<span className="fa-li" />
 									</li>
 								</ul>
-								<a href="#" className="btn btn-block btn-primary text-uppercase">
+								<a href="/profile" className="btn btn-block btn-primary text-uppercase">
 									Schedule
 								</a>
 							</div>
@@ -110,7 +110,7 @@ export const Services = () => (
 										*Price For Frame Swap
 									</li>
 								</ul>
-								<a href="#" className="btn btn-block btn-primary text-uppercase">
+								<a href="/profile" className="btn btn-block btn-primary text-uppercase">
 									Schedule
 								</a>
 							</div>
@@ -161,7 +161,7 @@ export const Services = () => (
 										<span className="fa-li" />* Price Of Bike Build From Ground Up *
 									</li>
 								</ul>
-								<a href="#" className="btn btn-block btn-primary text-uppercase">
+								<a href="/profile" className="btn btn-block btn-primary text-uppercase">
 									Schedule
 								</a>
 							</div>
