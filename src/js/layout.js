@@ -10,8 +10,9 @@ import injectContext from "./store/appContext";
 import { Navbar } from "./component/navbar";
 import { Footer } from "./component/footer";
 import { Services } from "./component/services";
-import { Login } from "./component/login";
+import Login from "./component/login";
 import { Profile } from "./component/profile";
+import { Register } from "./component/register";
 
 //create your first component
 export class Layout extends React.Component {
@@ -31,6 +32,11 @@ export class Layout extends React.Component {
 							<Route path="/services" component={Services} />
 							<Route path="/login" component={Login} />
 							<Route path="/profile" component={Profile} />
+							<Route
+								path="/register"
+								component={Register}
+								loc="https://www.strava.com/oauth/authorize?client_id=35677&response_type=code&redirect_uri=https://8080-d009fd2f-326e-44fb-8120-b5c41b8447a4.ws-us0.gitpod.io/profile/&approval_prompt=force"
+							/>
 							<Route path="/single/:theid" component={Single} />
 							<Route render={() => <h1>Not found!</h1>} />
 						</Switch>
