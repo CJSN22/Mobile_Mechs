@@ -11,7 +11,7 @@ const getState = ({ getStore, setStore }) => {
 				const store = getStore();
 
 				// let store = scope.state.store;
-				fetch("https://3000-fc991e61-b42d-4c93-9500-36746e2f52a7.ws-us0.gitpod.io/register", {
+				fetch("https://3000-c8a5bc72-aaef-4c6b-9fd6-5915238ad137.ws-us0.gitpod.io/register", {
 					method: "POST",
 					headers: {
 						"Content-type": "application/json;"
