@@ -19,18 +19,6 @@ class Login extends React.Component {
 												<form className="form-signin">
 													<div className="form-label-group">
 														<input
-															type="text"
-															id="inputUserame"
-															className="form-control"
-															placeholder="Username"
-															required
-															autoFocus
-														/>
-														<label htmlFor="inputUserame">Username</label>
-													</div>
-
-													<div className="form-label-group">
-														<input
 															type="email"
 															id="inputEmail"
 															className="form-control"
@@ -67,7 +55,7 @@ class Login extends React.Component {
 														className="btn btn-lg btn-primary btn-block text-uppercase"
 														onClick={() =>
 															actions.registerUser(
-																document.querySelector("#inputUserame").value,
+																document.querySelector("#inputEmail").value,
 																document.querySelector("#inputPassword").value
 															)
 														}
@@ -75,17 +63,10 @@ class Login extends React.Component {
 														Register
 													</button>
 
-													<a
-														className="d-block text-center mt-2 small"
-														href="https://www.strava.com/oauth/authorize?client_id=35677&response_type=code&redirect_uri=https://8080-d009fd2f-326e-44fb-8120-b5c41b8447a4.ws-us0.gitpod.io/profile/&approval_prompt=force">
+													<a className="d-block text-center mt-2 small" href="/profile">
 														Sign In
 													</a>
 													<hr className="my-4" />
-													<button
-														className="btn btn-lg btn-google btn-block text-uppercase"
-														type="submit">
-														<i className="fab fa-strava mr-2" /> Sign up with Strava
-													</button>
 												</form>
 											</div>
 										</div>
