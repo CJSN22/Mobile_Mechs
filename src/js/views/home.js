@@ -13,7 +13,7 @@ export class Home extends React.Component {
 						<h1 className="display-4">MobileMechs</h1>
 						<p className="lead">
 							Bringing top notch services for all your cycling needs right to your front door. No need to
-							hastle with local shops to squeeze in a tune up at the last minute. Schedule your next
+							hassle with local shops to squeeze in a tune up at the last minute. Schedule your next
 							service with MobileMechs and we will make sure your machine is race ready when you need it
 							most!
 						</p>
@@ -48,7 +48,7 @@ export class Home extends React.Component {
 						<p className="card-text">
 							Slipping gears and dropping chains usually results in one thing, and that is a pedal to the
 							shin! Nobody wants a pedal to the shin! After a service from MobileMechs your bike will be
-							back to gripping climbs and railing decents!
+							back to gripping climbs and railing descents!
 						</p>
 						<a href="/services" className="btn btn-primary">
 							More Info{" "}

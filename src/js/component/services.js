@@ -14,7 +14,7 @@ export const Services = () => (
 								<ul className="fa-ul">
 									<li>
 										<span className="fa-li" />
-										Full Saftey Inspection
+										Full Safety Inspection
 									</li>
 									<li>
 										<span className="fa-li" />
@@ -49,7 +49,7 @@ export const Services = () => (
 										Post Service Test Ride
 									</li>
 									<li className="text">
-										<span className="fa-li" />* Price Of Bike Build From Box *
+										<span className="fa-li" />* Price Of Bike Build From Box
 									</li>
 									<li className="text">
 										<span className="fa-li" />
@@ -71,7 +71,7 @@ export const Services = () => (
 								<ul className="fa-ul">
 									<li>
 										<span className="fa-li" />
-										Full Saftey Inspection
+										Full Safety Inspection
 									</li>
 									<li>
 										<span className="fa-li" />
@@ -106,8 +106,7 @@ export const Services = () => (
 										Post Service Test Ride
 									</li>
 									<li className="text">
-										<span className="fa-li" />
-										*Price For Frame Swap
+										<span className="fa-li" />* Price For Frame Swap
 									</li>
 								</ul>
 								<a href="/profile" className="btn btn-block btn-primary text-uppercase">
@@ -126,7 +125,7 @@ export const Services = () => (
 								<ul className="fa-ul">
 									<li>
 										<span className="fa-li" />
-										Full Saftey Inspection
+										Full Safety Inspection
 									</li>
 									<li>
 										<span className="fa-li" />
@@ -147,7 +146,7 @@ export const Services = () => (
 									</li>
 									<li className="text">
 										<span className="fa-li" />
-										Check and Replace (Headset,BB,Hub)
+										Check and Replace bearings (Headset,BB,Hub)
 									</li>
 									<li className="text">
 										<span className="fa-li" />
@@ -158,7 +157,7 @@ export const Services = () => (
 										Post Service Test Ride
 									</li>
 									<li className="text">
-										<span className="fa-li" />* Price Of Bike Build From Ground Up *
+										<span className="fa-li" />* Price Of Bike Build From Ground Up
 									</li>
 								</ul>
 								<a href="/profile" className="btn btn-block btn-primary text-uppercase">
