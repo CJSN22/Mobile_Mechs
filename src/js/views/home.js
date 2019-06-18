@@ -39,7 +39,7 @@ export class Home extends React.Component {
 				</div>
 				<div className="card col-sm-4 d-inline-block">
 					<img
-						src="https://www.mountainbike-magazin.de/sixcms/media.php/6/SM2_AXS_Tucson_Launch_MR-6657_1500.13817226.jpg"
+						src="https://www.bike-magazin.de/uploads/tx_saltnews/39/39800930a137fcab752fc3a7647001d83dc22b59.jpeg"
 						className="card-img-top"
 						alt="..."
 					/>
