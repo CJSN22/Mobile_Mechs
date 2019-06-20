@@ -20,7 +20,7 @@ export const Profile = () => (
 						Schedule Service
 					</a>
 
-					<table className="table table-sm table-borderless border-bottom border-light">
+					<table className="table table-sm table-borderless border-bottom border-dark">
 						<thead>
 							<tr>
 								<th scope="col">Bike</th>
@@ -42,7 +42,7 @@ export const Profile = () => (
 						</tbody>
 					</table>
 
-					<table className="table table-sm table-borderless border-bottom border-light">
+					<table className="table table-sm table-borderless border-bottom border-dark">
 						<caption> * Year to date stats </caption>
 						<thead>
 							<tr>

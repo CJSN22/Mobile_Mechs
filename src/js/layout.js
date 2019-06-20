@@ -35,7 +35,7 @@ export class Layout extends React.Component {
 							<Route
 								path="/register"
 								component={Register}
-								loc="https://www.strava.com/oauth/authorize?client_id=35677&response_type=code&redirect_uri=https://8080-d009fd2f-326e-44fb-8120-b5c41b8447a4.ws-us0.gitpod.io/profile/&approval_prompt=force"
+								loc="https://www.strava.com/oauth/authorize?client_id=35677&response_type=code&redirect_uri=https://8080-e005674b-f343-4535-998c-3efaaa308702.ws-us0.gitpod.io/profile/&approval_prompt=force"
 							/>
 							<Route path="/single/:theid" component={Single} />
 							<Route render={() => <h1>Not found!</h1>} />
