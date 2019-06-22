@@ -9,7 +9,7 @@ export const Services = () => (
 						<div className="card mb-5 mb-lg-0">
 							<div className="card-body">
 								<h5 className="card-title text text-uppercase text-center">Basic</h5>
-								<h6 className="card-price text-center">$100</h6>
+								<h6 className="card-price text-center">$120</h6>
 								<hr />
 								<ul className="fa-ul">
 									<li>
@@ -66,7 +66,7 @@ export const Services = () => (
 						<div className="card mb-5 mb-lg-0">
 							<div className="card-body">
 								<h5 className="card-title text text-uppercase text-center">Major</h5>
-								<h6 className="card-price text-center">$200</h6>
+								<h6 className="card-price text-center">$175</h6>
 								<hr />
 								<ul className="fa-ul">
 									<li>
@@ -120,7 +120,7 @@ export const Services = () => (
 						<div className="card">
 							<div className="card-body">
 								<h5 className="card-title text text-uppercase text-center">Deluxe</h5>
-								<h6 className="card-price text-center">$300</h6>
+								<h6 className="card-price text-center">$250</h6>
 								<hr />
 								<ul className="fa-ul">
 									<li>
