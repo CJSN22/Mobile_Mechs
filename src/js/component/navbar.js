@@ -5,7 +5,7 @@ import "../../styles/home.scss";
 export class Navbar extends React.Component {
 	render() {
 		return (
-			<nav className="navbar navbar-expand-lg navbar-light bg-light">
+			<nav className="navbar navbar-expand-lg">
 				<a className="navbar-brand" href="/">
 					MobileMechs
 				</a>

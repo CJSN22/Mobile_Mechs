@@ -10,10 +10,7 @@
 
 // main body style
 
-i{
-    color: white;
-    text-align: center;
-}
+
 
 body {
     //background-image: url(http://www.bruna.cat/imgdownload/full/97/976425/mtb-wallpaper-hd.jpg);
@@ -23,11 +20,30 @@ body {
 
 
 nav {
-    opacity: 0.8;
+    background: none;
+
+}
+
+.card.col-sm-4 {
+    color: white;
+    text-shadow: 0 0 3px black;
+    background: none;
+
+}
+.card-img-top{
+    border-radius: 5%;
+}
+img {
+    border-radius: 5%;
+}
+
+a.nav-link, a.navbar-brand {
+    color: white;
+    text-shadow: 0 0 3px black;
 }
 
 .jumbotron {
-    opacity: 0.8;
+    //opacity: 0.8;
     background: none;
     color: white;
     text-shadow: 0 0 3px black;
