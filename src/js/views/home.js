@@ -32,7 +32,7 @@ export class Home extends React.Component {
 							noisy bike will take the fun out of any ride. Schedule a tune up with MobileMechs to make
 							sure your next ride is safe and quiet.
 						</p>
-						<a href="/services" className="btn btn-primary d-block">
+						<a href="/services" className="btn btn-primary">
 							More Info{" "}
 						</a>
 					</div>
@@ -50,7 +50,7 @@ export class Home extends React.Component {
 							shin! Nobody wants a pedal to the shin! After a service from MobileMechs your bike will be
 							back to gripping climbs and railing descents!
 						</p>
-						<a href="/services" className="btn btn-primary d-block">
+						<a href="/services" className="btn btn-primary">
 							More Info{" "}
 						</a>
 					</div>
@@ -68,7 +68,7 @@ export class Home extends React.Component {
 							with all your favorite parts. With our Tune Up packages we have you covered from bikes that
 							come shipped in a box to full custom builds!
 						</p>
-						<a href="/services" className="btn btn-primary d-block">
+						<a href="/services" className="btn btn-primary">
 							More Info{" "}
 						</a>
 					</div>
