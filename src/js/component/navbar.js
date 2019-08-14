@@ -17,7 +17,7 @@ export class Navbar extends React.Component {
 					aria-controls="navbarTogglerDemo02"
 					aria-expanded="false"
 					aria-label="Toggle navigation">
-					<span className="navbar-toggler-icon" />
+					<span className="navbar-toggler-icon fas fa-bars" />
 				</button>
 
 				<div className="collapse navbar-collapse" id="navbarTogglerDemo02">

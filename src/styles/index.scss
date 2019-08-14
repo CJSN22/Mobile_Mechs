@@ -19,7 +19,12 @@ body {
 
 
 nav {
-     background: none;
+      background: none;
+
+}
+
+.navbar-toggler {
+    color: white;
 
 }
 
@@ -37,8 +42,8 @@ img {
 }
 
 a.nav-link, a.navbar-brand {
-    color: white;
-    text-shadow: 0 0 3px black;
+     color: white;
+     text-shadow: 0 0 3px black;
 }
 
 .jumbotron {
