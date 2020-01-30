@@ -26,9 +26,9 @@ export const Footer = () => (
 
 		<br />
 
-		<div className="footer-copyright text-center py-3">
+		{/* <div className="footer-copyright text-center py-3">
 			© 2018 Copyright:
 			<a href="" />
-		</div>
+		</div> */}
 	</footer>
 );
