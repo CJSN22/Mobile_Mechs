@@ -37,7 +37,7 @@ export const Profile = () => (
 							</tr>
 							<tr>
 								<th scope="row">Model</th>
-								<td>Venge Pro</td>
+								<td>S-WORKS Tarmac</td>
 							</tr>
 						</tbody>
 					</table>
@@ -60,7 +60,7 @@ export const Profile = () => (
 							</tr>
 							<tr>
 								<th scope="row">Rides</th>
-								<td>30</td>
+								<td>35</td>
 							</tr>
 						</tbody>
 					</table>
